@@ -6,7 +6,7 @@ PC_Box = {
     "Arceus" : {
         "Type" : "Normal",
         "Level" : 100,
-        "HP" : 410
+        "HP" : 414
     },
     "Dialga" : {
         "Type" : "Steel",
@@ -26,7 +26,7 @@ PC_Box = {
     "Mew" : {
         "Type" : "Psychic",
         "Level" : 50,
-        "HP" : 200
+        "HP" : 151
     },
     "Bidoof" : {
         "Type" : "Normal",
@@ -36,22 +36,22 @@ PC_Box = {
     "Articuno" : {
         "Type" : "Ice",
         "Level" : 70,
-        "HP" : 320
+        "HP" : 323
     },
     "Zapdos" : {
         "Type" : "Electric",
         "Level" : 70,
-        "HP" : 300
+        "HP" : 304
     },
     "Moltres" : {
         "Type" : "Fire",
         "Level" : 70,
-        "HP" : 310
+        "HP" : 312
     },
     "Ho-Oh" : {
         "Type" : "Fire",
         "Level" : 70,
-        "HP" : 310
+        "HP" : 327
     }
 }
 
